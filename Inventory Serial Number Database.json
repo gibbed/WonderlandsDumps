@@ -1427,7 +1427,8 @@
       "/Game/PatchDLC/Indigo2/Gear/Weapons/Pistols/Torgue/_Shared/_Design/_Unique/Butterboom/WT_PS_Butterboom.WT_PS_Butterboom",
       "/Game/PatchDLC/Indigo4/Gear/Weapons/SniperRifles/Dahl/_Shared/_Design/Tiabolt/Custom/WT_SR_DAL_Tiabolt.WT_SR_DAL_Tiabolt",
       "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/HairColors/HairColor_40.InvData_HairColor_40",
-      "/Game/PatchDLC/Indigo4/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/_Unique/Vengeance/Custom/WT_AR_TOR_Vengeance.WT_AR_TOR_Vengeance"
+      "/Game/PatchDLC/Indigo4/Gear/Weapons/AssaultRifles/Torgue/_Shared/_Design/_Unique/Vengeance/Custom/WT_AR_TOR_Vengeance.WT_AR_TOR_Vengeance",
+      "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/HeadAccessories/HeadAccessory_59.InvData_HeadAccessory_59"
     ]
   },
   "InventoryBalanceData": {
@@ -3472,7 +3473,8 @@
       "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/EarShape/EarShape_19.InvBal_EarShape_19",
       "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/EarShape/EarShape_20.InvBal_EarShape_20",
       "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/HairColors/HairColor_40.InvBal_HairColor_40",
-      "/Game/PatchDLC/Indigo4/Gear/SpellMods/_Unique/MineHail/Balance/Balance_Spell_MineHail.Balance_Spell_MineHail"
+      "/Game/PatchDLC/Indigo4/Gear/SpellMods/_Unique/MineHail/Balance/Balance_Spell_MineHail.Balance_Spell_MineHail",
+      "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/HeadAccessories/HeadAccessory_59.InvBal_HeadAccessory_59"
     ]
   },
   "ItemPoolData": {
@@ -4727,7 +4729,22 @@
       "/Game/PatchDLC/Indigo3/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo3_Dedicated_Spell_DedicatedChance.LootPool_Indigo3_Dedicated_Spell_DedicatedChance",
       "/Game/PatchDLC/Indigo3/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo3_Dedicated_Spell_Items.LootPool_Indigo3_Dedicated_Spell_Items",
       "/Game/PatchDLC/Indigo3/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo3_Dedicated_Ward_DedicatedChance.LootPool_Indigo3_Dedicated_Ward_DedicatedChance",
-      "/Game/PatchDLC/Indigo3/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo3_Dedicated_Ward_Items.LootPool_Indigo3_Dedicated_Ward_Items"
+      "/Game/PatchDLC/Indigo3/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo3_Dedicated_Ward_Items.LootPool_Indigo3_Dedicated_Ward_Items",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Cosmetic_Items.LootPool_Indigo4_Cosmetic_Items",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Amulet_DedicatedChance.LootPool_Indigo4_Dedicated_Amulet_DedicatedChance",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Amulet_Items.LootPool_Indigo4_Dedicated_Amulet_Items",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Boss_DedicatedChance.LootPool_Indigo4_Dedicated_Boss_DedicatedChance",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Boss_Items.LootPool_Indigo4_Dedicated_Boss_Items",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Gun_DedicatedChance.LootPool_Indigo4_Dedicated_Gun_DedicatedChance",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Gun_Items.LootPool_Indigo4_Dedicated_Gun_Items",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Melee_DedicatedChance.LootPool_Indigo4_Dedicated_Melee_DedicatedChance",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Melee_Items.LootPool_Indigo4_Dedicated_Melee_Items",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Ring_DedicatedChance.LootPool_Indigo4_Dedicated_Ring_DedicatedChance",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Ring_Items.LootPool_Indigo4_Dedicated_Ring_Items",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Spell_DedicatedChance.LootPool_Indigo4_Dedicated_Spell_DedicatedChance",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Spell_Items.LootPool_Indigo4_Dedicated_Spell_Items",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Ward_DedicatedChance.LootPool_Indigo4_Dedicated_Ward_DedicatedChance",
+      "/Game/PatchDLC/Indigo4/InteractiveObjects/WheelOfFateLootData/Loot/LootPool_Indigo4_Dedicated_Ward_Items.LootPool_Indigo4_Dedicated_Ward_Items"
     ]
   },
   "ManufacturerData": {
@@ -14083,7 +14100,8 @@
       "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/Banners/BannerColor_44_Icon.BannerColor_44_Icon",
       "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/Banners/BannerColor_44_Pattern.BannerColor_44_Pattern",
       "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/Statues/Materials/HeroStatueMaterial_25.HeroStatueMaterial_25",
-      "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Banners/Banner_Shape_26.Banner_Shape_26"
+      "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Banners/Banner_Shape_26.Banner_Shape_26",
+      "/Game/PatchDLC/Indigo4/PlayerCharacters/_Shared/_Design/Customization/HeadAccessories/HeadAccessory_59.HeadAccessory_59"
     ]
   },
   "OakDownloadableContentLicenseData": {
